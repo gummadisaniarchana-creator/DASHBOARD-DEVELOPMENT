@@ -19,6 +19,9 @@ In this project, I developed a simple sales dashboard using Python, Pandas, and 
 Tools & Platforms Used:
 
 1.Google Colab
+
 2.Python
+
 3.Pandas
+
 4.Matplotlib
